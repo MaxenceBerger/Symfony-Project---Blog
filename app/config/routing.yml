@@ -1,0 +1,11 @@
+wti_hello:
+    resource: "@WTIHelloBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+logout:
+    path: /logout
+
+#app:
+ #   resource: '@AppBundle/Controller/'
+ #   type: annotation

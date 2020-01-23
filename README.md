@@ -1,1 +1,1 @@
-Symfony Project - Blog
+Project Blog - Symfony
